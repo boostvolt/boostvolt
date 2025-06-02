@@ -7,7 +7,7 @@ ___
 🚀 Co-founder of [FanScore](https://github.com/fanscore-ch)! We're building a next-generation sports engagement platform that combines real-time data analytics, personalized content, fantasy football, and social features to elevate the fan experience.
 
 💻 Want to help build the future of sports tech at FanScore? If our powerful and exciting open-source stack sparks your interest, **reach out to me!** It includes:
-  - **Go (Golang), Ent, Atlas nd OpenFGA** for our high-performance backend and data layer.
+  - **Go (Golang), Ent, Atlas and OpenFGA** for our high-performance backend and data layer.
   - **NATS and RiverQueue** for robust, real-time messaging and job processing.
   - **WunderGraph Cosmo** to build our cutting-edge federated GraphQL API.
   - **TypeScript, Expo, Relay, and Tamagui** for our sleek, cross-platform mobile and web experiences.
