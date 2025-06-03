@@ -8,7 +8,7 @@ ___
 
 💻 Want to help build the future of sports tech at FanScore? If our powerful and exciting open-source stack sparks your interest, **reach out to me!** It includes:
   - **Go (Golang), Ent, Atlas and OpenFGA** for our high-performance backend and data layer.
-  - **NATS and RiverQueue** for robust, real-time messaging and job processing.
+  - **NATS, Watermill and RiverQueue** for robust, real-time messaging and job processing.
   - **WunderGraph Cosmo** to build our cutting-edge federated GraphQL API.
   - **TypeScript, Expo, Relay, and Tamagui** for our sleek, cross-platform mobile and web experiences.
 
