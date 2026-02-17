@@ -1,23 +1,9 @@
 ### Hey 👋
 
-Technical Lead. Co-Founder. Investor. Based in Switzerland.
+Building real-time systems and developer platforms in Switzerland.
 
 ---
 
-**Co-Founder at [FanScore](https://github.com/fanscore-ch)**
+**[FanScore](https://github.com/fanscore-ch)** — Real-time fantasy sports platform for Swiss football. Full stack from event-driven Go services processing live match feeds, through federated GraphQL and NATS JetStream, to cross-platform mobile clients with Expo and Relay.
 
-Building the operating system for modern sports fandom. Fantasy, social, collectibles, commerce. One platform, full stack, from infrastructure to mobile.
-
-`Go` `Ent` `OpenFGA` `GraphQL Federation` `NATS JetStream` `Watermill` `RiverQueue` `PostgreSQL` `Redis` `Kubernetes` `OpenTelemetry` `TypeScript` `Expo` `Relay` `Tamagui`
-
----
-
-**Technical Lead at [St.Galler Kantonalbank](https://github.com/stgallerkb)**
-
-Building the internal developer platform that powers how engineers ship software. Automated pipelines, shared libraries, frameworks, and tooling.
-
----
-
-**Partner at [S2S Ventures](https://github.com/s2s-ventures)**
-
-Evaluating early-stage startups and leading fund operations for a $12M student-led VC fund.
+**[St.Galler Kantonalbank](https://github.com/stgallerkb)** — Internal developer platform. 100+ repos, 50+ regulated apps, 30+ shared packages. Fully automated CI/CD with security scanning and SBOM generation, deploy-ready artifacts in <15 min. 91% adoption across engineering.
